@@ -1,0 +1,25 @@
+body
+{
+	margin: 0 0;
+	background-color: #E0E0E0;
+	font-size: 12px;
+	font-family: sans-serif, arial, times new romam;
+}
+
+#header_top
+{
+
+	border-style: solid;
+	border-color: transparent;
+	height : 40px;
+	background-color: #00bfff;	;
+	position: relative;
+}
+
+#main_container
+{
+	position: relative;
+	margin: 4px 4px 4px 4px;
+}
+
+
