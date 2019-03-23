@@ -1,2 +1,1 @@
-# COMPIII
-Trabalho de  computação III
+Gerenciadora de competições
